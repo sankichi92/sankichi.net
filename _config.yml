@@ -12,6 +12,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-readme-index
   - jekyll-seo-tag
+  - jemoji
 
 readme_index:
   remove_originals: true
