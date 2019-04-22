@@ -1,0 +1,17 @@
+title: Takahiro Miyoshi
+description: Takahiro Miyoshi's Profile
+lang: en-US
+author: sankichi92
+twitter:
+  username: sankichi92
+
+theme: null
+markdown: GFM
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-readme-index
+  - jekyll-seo-tag
+
+readme_index:
+  remove_originals: true
