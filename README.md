@@ -27,5 +27,5 @@
 - [LinkedIn](https://www.linkedin.com/in/sankichi92/)
 - [Hatena](http://profile.hatena.ne.jp/sankichi92/)
 - [SoundCloud](https://soundcloud.com/sankichi92)
-- [Annict](https://annict.jp/@sankichi92)
+- [Annict](https://annict.jp/@sankichi92/watched)
 - [LiveLog](https://livelog.ku-unplugged.net/members/1)
