@@ -1,18 +1,40 @@
+# Site settings
 title: Takahiro Miyoshi
 description: Takahiro Miyoshi's Profile
 lang: en-US
-author: sankichi92
-twitter:
-  username: sankichi92
+favicon: https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=64
+author:
+  name: Takahiro Miyoshi
+  twitter: sankichi92
 
+# Build settings
 theme: null
 markdown: GFM
-
 plugins:
   - jekyll-github-metadata
   - jekyll-readme-index
   - jekyll-seo-tag
   - jemoji
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=1200
+      seo:
+        type: Person
 
+# jekyll-readme-index
 readme_index:
   remove_originals: true
+
+# jekyll-seo-tag
+twitter:
+  username: sankichi92
+  card: summary
+social:
+  name: Takahiro Miyoshi
+  links:
+    - https://twitter.com/sankichi92
+    - https://github.com/sankichi92
+    - https://www.facebook.com/sankichi9
+    - https://www.linkedin.com/in/sankichi92/
