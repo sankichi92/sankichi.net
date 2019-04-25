@@ -21,8 +21,8 @@
 
 - [blog.sankichi.net](https://blog.sankichi.net/)
 - [Twitter](https://twitter.com/sankichi92)
-- [GitHub](https://github.com/sankichi92)
 - [Facebook](https://www.facebook.com/sankichi92)
+- [GitHub](https://github.com/sankichi92)
 - [Wantedly](https://www.wantedly.com/users/3174482)
 - [LinkedIn](https://www.linkedin.com/in/sankichi92/)
 - [Hatena](http://profile.hatena.ne.jp/sankichi92/)
