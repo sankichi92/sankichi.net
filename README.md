@@ -28,4 +28,5 @@
 - [Hatena](http://profile.hatena.ne.jp/sankichi92/)
 - [SoundCloud](https://soundcloud.com/sankichi92)
 - [Annict](https://annict.jp/@sankichi92/watched)
+- [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
 - [LiveLog](https://livelog.ku-unplugged.net/members/1)
