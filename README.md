@@ -19,7 +19,6 @@
 
 ## Links :link:
 
-- [blog.sankichi.net](https://blog.sankichi.net/)
 - [Twitter](https://twitter.com/sankichi92)
 - [Facebook](https://www.facebook.com/sankichi92)
 - [GitHub](https://github.com/sankichi92)
@@ -30,3 +29,4 @@
 - [Annict](https://annict.jp/@sankichi92/watched)
 - [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
 - [LiveLog](https://livelog.ku-unplugged.net/members/1)
+- [blog.sankichi.net](https://blog.sankichi.net/)
