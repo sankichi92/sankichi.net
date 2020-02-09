@@ -1,46 +1,41 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
-
+<html lang="{{ page.lang | default: site.lang }}">
 <head>
-  <meta charset="utf-8">
-  <link rel="icon" href="{{ site.favicon }}">
-  <title>{{ page.title | default: site.title }}</title>
-  {% seo title=false %}
+<meta charset="utf-8">
+<link rel="icon" href="{{ site.favicon }}">
+<title>{{ page.title | default: site.title }}</title>
+{% seo title=false -%}
+<!-- https://github.com/sindresorhus/github-markdown-css#usage -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css" integrity="sha256-HbgiGHMLxHZ3kkAiixyvnaaZFNjNWLYKD/QG6PWaQPc=" crossorigin="anonymous"/>
+<style>
+  .markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+  }
 
-  <!-- https://github.com/sindresorhus/github-markdown-css#usage -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css" integrity="sha256-HbgiGHMLxHZ3kkAiixyvnaaZFNjNWLYKD/QG6PWaQPc=" crossorigin="anonymous"/>
-  <style>
+  @media (max-width: 767px) {
     .markdown-body {
-      box-sizing: border-box;
-      min-width: 200px;
-      max-width: 980px;
-      margin: 0 auto;
-      padding: 45px;
+      padding: 15px;
     }
+  }
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    @media (max-width: 767px) {
-      .markdown-body {
-        padding: 15px;
-      }
-    }
-  </style>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google_analytics }}');
-  </script>
+  gtag('config', '{{ site.google_analytics }}');
+</script>
 </head>
-
 <body>
 <main class="markdown-body">
-  {{ content }}
+{{ content }}
 </main>
 </body>
-
 </html>

@@ -2,22 +2,27 @@
 
 ![Profile photo](https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=256 "Playing the bass guitar at https://osafes.tokyo/archives/2018summer/")
 
-- :birthday: 1992-09-02
-- :house: Tokyo, Japan
-- :globe_with_meridians: https://sankichi.net/
-- :email: takahiro-miyoshi@sankichi.net
+- 🎂 1992-09-02
+- 🏠 Tokyo, Japan
+- 🌐 https://sankichi.net/
+- 📧 takahiro-miyoshi@sankichi.net
 
-## Work Experience :briefcase:
+## Work Experience
 
-- Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 –)
+- 💻 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 –)
 
-## Education :mortar_board:
+## Education
 
-- Master of Informatics, Kyoto University (2015-04 – 2017-03)
-  - :memo: [T. Miyoshi, S. Matsubara, *Dynamically Forming a Group of Human Forecasters and Machine Forecaster for Forecasting Economic Indicators* (IJCAI-18)](https://www.ijcai.org/proceedings/2018/64)
-- Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
+- 🎓 Master of Informatics, Kyoto University (2015-04 – 2017-03)
+  - [T. Miyoshi, S. Matsubara, *Dynamically Forming a Group of Human Forecasters and Machine Forecaster for Forecasting Economic Indicators* (IJCAI-18)](https://www.ijcai.org/proceedings/2018/64)
+- 🎓 Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
 
-## Links :link:
+## Interests
+
+- 📚 [Sci-Fi](https://sankichi.net/sci-fi.html)
+- 🎸 [Music](https://sankichi.net/music.html)
+
+## Links
 
 - [Twitter](https://twitter.com/sankichi92)
 - [Facebook](https://www.facebook.com/sankichi92)

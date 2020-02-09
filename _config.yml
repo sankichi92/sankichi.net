@@ -9,17 +9,17 @@ google_analytics: UA-29326026-5
 theme: null
 markdown: GFM
 plugins:
-  - jekyll-github-metadata
-  - jekyll-readme-index
   - jekyll-seo-tag
-  - jemoji
+  - jekyll-sitemap
 defaults:
   - scope:
       path: ""
     values:
       image: https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=1200
-      seo:
-        type: Person
+
+# jekyll-optional-front-matter
+optional_front_matter:
+  remove_originals: true
 
 # jekyll-readme-index
 readme_index:

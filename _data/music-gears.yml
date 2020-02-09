@@ -1,0 +1,63 @@
+- category: Guitar
+  items:
+    - maker: Godin
+      name: ACS Slim SA
+    - maker: S.Yairi
+      name: YD-75
+    - maker: Roland
+      name: GC-1
+
+- category: Bass
+  items:
+    - maker: Sadowsky
+      name: Metroline RV4
+
+- category: Effector / DI
+  items:
+    - maker: BOSS
+      name: GP-10
+      asin: B00KRYQSRS
+    - maker: TECH21
+      name: SansAmp VT Bass DI
+      asin: B00EFAM9G4
+    - maker: EBS
+      name: MultiComp Studio Edition
+      asin: B011LOVBYC
+
+- category: DAW
+  items:
+    - maker: Apple
+      name: Logic Pro X
+
+- category: Audio Interface
+  items:
+    - maker: Focusrite
+      name: Clarett 2Pre USB
+      asin: B0794PMMNB
+
+- category: Speaker
+  items:
+    - maker: Yamaha
+      name: MSP3
+      asin: B003J7WU22
+
+- category: Headphone
+  items:
+    - maker: Sony
+      name: MDR-CD900ST
+      asin: B000UPEJCU
+
+- category: Microphone
+  items:
+    - maker: Audio-Technica
+      name: AT2035
+      asin: B001JERO46
+    - maker: Shure
+      name: SM58
+      asin: B000CZ0R42
+
+- category: Keyboard
+  items:
+    - maker: KORG
+      name: microKEY Air-37
+      asin: B018ATKI7C
