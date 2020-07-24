@@ -29,6 +29,7 @@
 - [LinkedIn](https://www.linkedin.com/in/sankichi92/)
 - [Wantedly](https://www.wantedly.com/users/3174482)
 - [GitHub](https://github.com/sankichi92)
+- [LAPRAS](https://lapras.com/public/OQOEPCH)
 - [SoundCloud](https://soundcloud.com/sankichi92)
 - [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
 - [Annict](https://annict.jp/@sankichi92/watched)
