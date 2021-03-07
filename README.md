@@ -9,7 +9,7 @@
 
 ## Work Experience
 
-- 💻 Software Engineer at [Cookpad](https://info.cookpad.com/) (2017-04 –)
+- 💻 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 –)
 
 ## Education
 
@@ -19,8 +19,8 @@
 
 ## Interests
 
-- 📚 [Sci-Fi](https://sankichi.net/sci-fi.html)
-- 🎸 [Music](https://sankichi.net/music.html)
+- 📚 [Sci-Fi](https://sankichi.net/sci-fi)
+- 🎸 [Music](https://sankichi.net/music)
 
 ## Links
 
