@@ -27,7 +27,7 @@
 - [Twitter](https://twitter.com/sankichi92)
 - [Facebook](https://www.facebook.com/sankichi92)
 - [LinkedIn](https://www.linkedin.com/in/sankichi92/)
-- [Wantedly](https://www.wantedly.com/users/3174482)
+- [Wantedly](https://www.wantedly.com/id/sankichi92)
 - [GitHub](https://github.com/sankichi92)
 - [LAPRAS](https://lapras.com/public/OQOEPCH)
 - [SoundCloud](https://soundcloud.com/sankichi92)
