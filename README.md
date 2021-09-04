@@ -2,7 +2,7 @@
 
 ![Profile photo](https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=256 "Playing the bass guitar at https://osafes.tokyo/archives/2018summer/")
 
-- 🎂 1992-09-02
+- 🎂 1992-09
 - 🏠 Tokyo, Japan
 - 🌐 https://sankichi.net/
 - 📧 takahiro-miyoshi@sankichi.net
