@@ -9,6 +9,7 @@
 
 ## Work Experience
 
+- 🛰 Engineer at a National Research and Development Agency (2021-10 –)
 - 💻 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 – 2021-09)
 
 ## Education
