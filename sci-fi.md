@@ -1,5 +1,5 @@
 # My Sci-Fi Bookshelf
-{%- assign books_by_year = site.data.sci-fi-novels | group_by_exp: "book", "book.date | date: '%Y'" -%}
+{%- assign books_by_year = site.data.sci-fi-bookshelf | group_by_exp: "book", "book.date | date: '%Y'" -%}
 {%- for year in books_by_year %}
 ## {{ year.name }}
 {%- for book in year.items %}
