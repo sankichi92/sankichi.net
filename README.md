@@ -15,7 +15,6 @@
 ## Education
 
 - 🎓 Master of Informatics, Kyoto University (2015-04 – 2017-03)
-  - [T. Miyoshi, S. Matsubara, *Dynamically Forming a Group of Human Forecasters and Machine Forecaster for Forecasting Economic Indicators* (IJCAI-18)](https://doi.org/10.24963/ijcai.2018/64)
 - 🎓 Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
 
 ## Interests
