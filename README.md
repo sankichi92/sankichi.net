@@ -14,7 +14,7 @@
 
 ## Education
 
-- 🎓 Master of Informatics, Kyoto University (2015-04 – 2017-03)
+- 🎓 Master of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/) (2015-04 – 2017-03)
 - 🎓 Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
 
 ## Interests
