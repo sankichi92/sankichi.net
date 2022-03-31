@@ -21,6 +21,7 @@
 
 - 📚 [Sci-Fi](https://sankichi.net/sci-fi)
 - 🎸 [Music](https://sankichi.net/music)
+- 🎾 Tennis
 
 ## Links
 
