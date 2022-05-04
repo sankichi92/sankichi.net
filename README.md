@@ -30,7 +30,6 @@
 - [LinkedIn](https://www.linkedin.com/in/sankichi92/)
 - [GitHub](https://github.com/sankichi92)
 - [Wantedly](https://www.wantedly.com/id/sankichi92)
-- [YOUTRUST](https://youtrust.jp/users/sankichi92)
 - [LAPRAS](https://lapras.com/public/sankichi92)
 - [Speaker Deck](https://speakerdeck.com/sankichi92)
 - [SoundCloud](https://soundcloud.com/sankichi92)
