@@ -26,9 +26,9 @@
 ## Links
 
 - [Twitter](https://twitter.com/sankichi92)
-- [Facebook](https://www.facebook.com/sankichi92)
-- [LinkedIn](https://www.linkedin.com/in/sankichi92/)
 - [GitHub](https://github.com/sankichi92)
+- [LinkedIn](https://www.linkedin.com/in/sankichi92/)
+- [Facebook](https://www.facebook.com/sankichi92)
 - [Wantedly](https://www.wantedly.com/id/sankichi92)
 - [LAPRAS](https://lapras.com/public/sankichi92)
 - [Speaker Deck](https://speakerdeck.com/sankichi92)
