@@ -35,6 +35,5 @@
 - [Speaker Deck](https://speakerdeck.com/sankichi92)
 - [SoundCloud](https://soundcloud.com/sankichi92)
 - [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
-- [Annict](https://annict.jp/@sankichi92/watched)
 - [LiveLog](https://livelog.ku-unplugged.net/members/1)
 - [blog.sankichi.net](https://blog.sankichi.net/)
