@@ -9,8 +9,8 @@
 
 ## Work Experience
 
-- 🗺️ Part-time Software Engineer at [MIERUNE Inc.](https://www.mierune.co.jp/) (2023-01 –)
-- 📡 R&D Engineer at [Japan Aerospace Exploration Agency (JAXA)](https://www.jaxa.jp/) (2021-10 –)
+- 🗺️ Part-time Software Engineer at [MIERUNE Inc.](https://www.mierune.co.jp/) (2023-01 – 2023-07)
+- 📡 R&D Engineer at [Japan Aerospace Exploration Agency (JAXA)](https://www.jaxa.jp/) (2021-10 – )
 - 🍳 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 – 2021-09)
 
 ## Education
