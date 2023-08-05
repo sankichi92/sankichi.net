@@ -43,6 +43,9 @@
 
 - category: Headphone
   items:
+    - maker: Audio-Technica
+      name: ATH-M50
+      asin: B07662ZD8J
     - maker: Sony
       name: MDR-CD900ST
       asin: B000UPEJCU
