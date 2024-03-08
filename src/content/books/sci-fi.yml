@@ -9,7 +9,7 @@
   date: 2023-10-22
 
 - title: チェコＳＦ短編小説集
-  author:
+  author: ""
   asin: B07J23RHJT
   date: 2023-08-19
 
@@ -47,7 +47,7 @@
   author: ハーラン・エリスン
   asin: B01K1TTI0M
   date: 2022-11-05
- 
+
 - title: 横浜駅SF
   author: 柞刈湯葉
   asin: B01N0SE683
@@ -70,12 +70,12 @@
 
 - title: 愛はさだめ、さだめは死
   author: ジェイムズ・ティプトリー・Jr.
-  asin: 4150107300
+  asin: "4150107300"
   date: 2022-07-03
 
 - title: プランク・ダイヴ
   author: グレッグ・イーガン
-  asin: 4150118264
+  asin: "4150118264"
   date: 2022-06-12
 
 - title: 闇の左手
@@ -90,7 +90,7 @@
 
 - title: たったひとつの冴えたやりかた
   author: ジェイムズ・ティプトリー・Jr.
-  asin: 4152089512
+  asin: "4152089512"
   date: 2022-04-05
 
 - title: プロジェクト・ヘイル・メアリー
@@ -132,12 +132,12 @@
   author: カズオ・イシグロ
   asin: B08VNF8481
   date: 2021-07-07
-  
+
 - title: 三体Ⅲ 死神永生
   author: 劉慈欣
   asin: B0922H5V2N
   date: 2021-06-04
-  
+
 - title: わたしを離さないで
   author: カズオ・イシグロ
   asin: B009DEMBO2
@@ -174,7 +174,7 @@
   date: 2021-01-03
 
 - title: Genesis されど星は流れる
-  author:
+  author: ""
   asin: B08FDBKP7V
   date: 2021-01-01
 
@@ -187,7 +187,7 @@
   author: 小川一水
   asin: B00B4K2O54
   date: 2020-10-23
-  
+
 - title: 太陽の簒奪者
   author: 野尻抱介
   asin: B00CIMDKDC
@@ -197,12 +197,12 @@
   author: 野尻抱介
   asin: B00B7GJ73M
   date: 2020-09-02
-  
+
 - title: 火星の人
   author: アンディ・ウィアー
   asin: B00O1VJZLO
   date: 2020-08-30
-  
+
 - title: パプリカ
   author: 筒井康隆
   asin: B0099FKZ3Y
@@ -222,7 +222,7 @@
   author: 森見登美彦
   asin: B00AR76UAU
   date: 2020-06-14
-  
+
 - title: 荒潮
   author: 陳楸帆
   asin: B083ZCQG8V

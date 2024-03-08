@@ -1,40 +1,47 @@
-# Takahiro Miyoshi
+# Astro Starter Kit: Minimal
 
-![Profile photo](https://www.gravatar.com/avatar/bce862d9ab172a7b03e836640014f6e6?s=256 "Playing the bass guitar at https://osafes.tokyo/archives/2018summer/")
+```sh
+npm create astro@latest -- --template minimal
+```
 
-- 🎂 1992
-- 🏠 Tokyo, Japan
-- 🌐 https://sankichi.net/
-- 📧 takahiro-miyoshi@sankichi.net
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
 
-## Work Experience
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-- 🛰️ Software Engineer at [ArkEdge Space Inc.](https://arkedgespace.com/) (2023-08 – )
-- 🗺️ Part-time Software Engineer at [MIERUNE Inc.](https://www.mierune.co.jp/) (2023-01 – 2023-07)
-- 📡 R&D Engineer at [Japan Aerospace Exploration Agency (JAXA)](https://www.jaxa.jp/) (2021-10 – 2023-07)
-- 🍳 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 – 2021-09)
+## 🚀 Project Structure
 
-## Education
+Inside of your Astro project, you'll see the following folders and files:
 
-- 🎓 Master of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/) (2015-04 – 2017-03)
-- 🎓 Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
+```text
+/
+├── public/
+├── src/
+│   └── pages/
+│       └── index.astro
+└── package.json
+```
 
-## Interests
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-- 📚 [Sci-Fi](https://sankichi.net/sci-fi)
-- 🎸 [Music](https://sankichi.net/music)
-- 🎾 Tennis
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-## Links
+Any static assets, like images, can be placed in the `public/` directory.
 
-- [Twitter](https://twitter.com/sankichi92)
-- [GitHub](https://github.com/sankichi92)
-- [LinkedIn](https://www.linkedin.com/in/sankichi92/)
-- [Wantedly](https://www.wantedly.com/id/sankichi92)
-- [LAPRAS](https://lapras.com/public/sankichi92)
-- [Zenn](https://zenn.dev/sankichi92)
-- [しずかなインターネット](https://sizu.me/sankichi92)
-- [Speaker Deck](https://speakerdeck.com/sankichi92)
-- [SoundCloud](https://soundcloud.com/sankichi92)
-- [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
-- [LiveLog](https://livelog.ku-unplugged.net/members/1)
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

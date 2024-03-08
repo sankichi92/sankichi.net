@@ -1,0 +1,64 @@
+---
+import { getImage } from "astro:assets";
+import "github-markdown-css/github-markdown.css";
+import profilePhoto from "../assets/profile-photo.jpg";
+
+type Props = {
+  title?: string;
+  description: string;
+  type?: string;
+  meta?: { property: string; content: string }[];
+};
+
+const defaultTitle = "Takahiro Miyoshi";
+const { title, description, type = "website", meta } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const optimizedProfilePhoto = await getImage({
+  src: profilePhoto,
+  width: 512,
+  height: 512,
+  format: "jpeg",
+});
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <title>
+      {title ? `${title} - ${defaultTitle}` : defaultTitle}
+    </title>
+    <meta property="og:title" content={title || defaultTitle} />
+    <meta property="og:type" content={type} />
+    <meta property="og:image" content={optimizedProfilePhoto.src} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:description" content={description} />
+    <meta property="og:site_name" content={defaultTitle} />
+    {
+      meta &&
+        meta.map(({ property, content }) => (
+          <meta property={property} content={content} />
+        ))
+    }
+  </head>
+  <body class="markdown-body">
+    <slot />
+  </body>
+</html>
+
+<style>
+  .markdown-body {
+    max-width: 80ch;
+    margin: 0 auto;
+    padding: 3rem;
+  }
+
+  @media (max-width: 767px) {
+    .markdown-body {
+      padding: 1rem;
+    }
+  }
+</style>
