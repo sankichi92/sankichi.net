@@ -1,13 +1,14 @@
 {
-  "name": "sankichi-net",
+  "name": "sankichi.net",
   "type": "module",
-  "version": "0.0.1",
+  "private": true,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "fmt": "prettier --write . --plugin=prettier-plugin-astro"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.6",
@@ -17,5 +18,9 @@
     "github-markdown-css": "^5.5.1",
     "sharp": "^0.33.2",
     "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0"
   }
 }

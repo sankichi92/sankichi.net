@@ -8,7 +8,7 @@ const books = defineCollection({
       author: z.string(),
       asin: z.string(),
       date: z.date(),
-    })
+    }),
   ),
 });
 

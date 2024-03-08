@@ -7,7 +7,7 @@ const description = "Takahiro Miyoshi's sci-fi books";
 
 const sciFiBooks = await getEntry("books", "sci-fi");
 const sciFiBokksByYear = Map.groupBy(sciFiBooks.data, ({ date }) =>
-  date.getFullYear()
+  date.getFullYear(),
 );
 ---
 
