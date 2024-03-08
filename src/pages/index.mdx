@@ -1,0 +1,67 @@
+---
+description: Takahiro Miyoshi's profile
+---
+
+import { Image } from "astro:assets";
+import profilePhoto from "../assets/profile-photo.jpg";
+import Layout from "../layouts/Layout.astro";
+
+<Layout
+  decription={frontmatter.description}
+  type="profile"
+  meta={[
+    {property: "profile:first_name", content: "Takahiro"},
+    {property: "profile:last_name", content: "Miyoshi"},
+    {property: "profile:username", content: "sankichi92"},
+    {property: "profile:gender", content: "male"},
+  ]}
+>
+
+# Takahiro Miyoshi
+
+<Image
+  src={profilePhoto}
+  alt="Profile Photo"
+  width={256}
+  height={256}
+  densities={[1, 2]}
+/>
+
+- 🎂 1992
+- 🏠 Tokyo, Japan
+- 🌐 https://sankichi.net/
+- 📧 takahiro-miyoshi@sankichi.net
+
+## Work Experience
+
+- 🛰️ Software Engineer at [ArkEdge Space Inc.](https://arkedgespace.com/) (2023-08 – )
+- 🗺️ Part-time Software Engineer at [MIERUNE Inc.](https://www.mierune.co.jp/) (2023-01 – 2023-07)
+- 📡 R&D Engineer at [Japan Aerospace Exploration Agency (JAXA)](https://www.jaxa.jp/) (2021-10 – 2023-07)
+- 🍳 Software Engineer at [Cookpad Inc.](https://info.cookpad.com/) (2017-04 – 2021-09)
+
+## Education
+
+- 🎓 Master of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/) (2015-04 – 2017-03)
+- 🎓 Bachelor of Integrated Human Studies, Kyoto University (2011-04 – 2015-03)
+
+## Interests
+
+- 📚 [Sci-Fi](./sci-fi/)
+- 🎸 [Music](./music/)
+- 🎾 Tennis
+
+## Links
+
+- [Twitter](https://twitter.com/sankichi92)
+- [GitHub](https://github.com/sankichi92)
+- [LinkedIn](https://www.linkedin.com/in/sankichi92/)
+- [Wantedly](https://www.wantedly.com/id/sankichi92)
+- [LAPRAS](https://lapras.com/public/sankichi92)
+- [Zenn](https://zenn.dev/sankichi92)
+- [しずかなインターネット](https://sizu.me/sankichi92)
+- [Speaker Deck](https://speakerdeck.com/sankichi92)
+- [SoundCloud](https://soundcloud.com/sankichi92)
+- [LiveFans](https://www.livefans.jp/users/prf/B400c08315071a8f)
+- [LiveLog](https://livelog.ku-unplugged.net/members/1)
+
+</Layout>
