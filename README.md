@@ -4,14 +4,14 @@ Takahiro Miyoshi's profile
 
 ## Development
 
-### Setup
+### Install dependencies
 
     $ pnpm install
 
-### Starts local dev server
+### Start local dev server
 
     $ pnpm run dev
 
-### Format
+### Format codes
 
     $ pnpm run fmt
