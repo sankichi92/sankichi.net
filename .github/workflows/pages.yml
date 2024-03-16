@@ -18,7 +18,7 @@ jobs:
       NODE_ENV: production
 
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4.1.2
 
       - uses: pnpm/action-setup@v3.0.0
 
