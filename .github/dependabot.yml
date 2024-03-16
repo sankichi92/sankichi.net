@@ -14,7 +14,7 @@ updates:
       astro:
         patterns:
           - "astro"
-          - "@astro/*"
+          - "@astrojs/*"
   - package-ecosystem: github-actions
     directory: /
     schedule:
