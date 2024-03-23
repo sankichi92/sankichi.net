@@ -3,7 +3,8 @@ description: Takahiro Miyoshi's profile
 ---
 
 import { Image } from "astro:assets";
-import profilePhoto from "../assets/profile-photo.jpg";
+import profilePhotoCasual from "../assets/profile-photo-casual.jpg";
+import profilePhotoFormal from "../assets/profile-photo-formal.jpg";
 import Layout from "../layouts/Layout.astro";
 
 <Layout
@@ -20,8 +21,16 @@ import Layout from "../layouts/Layout.astro";
 # Takahiro Miyoshi
 
 <Image
-  src={profilePhoto}
-  alt="Profile Photo"
+  src={profilePhotoCasual}
+  alt="Casual profile photo"
+  width={256}
+  height={256}
+  densities={[1, 2]}
+/>
+{' '}
+<Image
+  src={profilePhotoFormal}
+  alt="Formal profile photo"
   width={256}
   height={256}
   densities={[1, 2]}
