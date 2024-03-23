@@ -5,7 +5,7 @@ const books = defineCollection({
   schema: z.array(
     z.object({
       title: z.string(),
-      author: z.string(),
+      author: z.string().optional(),
       asin: z.string(),
       date: z.date(),
     }),
