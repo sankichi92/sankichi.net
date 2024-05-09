@@ -20,21 +20,28 @@ import Layout from "../layouts/Layout.astro";
 
 # Takahiro Miyoshi
 
-<Image
-  src={profilePhotoCasual}
-  alt="Casual profile photo"
-  width={256}
-  height={256}
-  densities={[1, 2]}
-/>
-{' '}
-<Image
-  src={profilePhotoFormal}
-  alt="Formal profile photo"
-  width={256}
-  height={256}
-  densities={[1, 2]}
-/>
+<div style="display:flex; gap:.5rem;">
+  <div>
+    <Image
+      src={profilePhotoCasual}
+      alt="Casual profile photo"
+      width={256}
+      height={256}
+      densities={[1, 2]}
+      style="height:auto;"
+    />
+  </div>
+  <div>
+    <Image
+      src={profilePhotoFormal}
+      alt="Formal profile photo"
+      width={256}
+      height={256}
+      densities={[1, 2]}
+      style="height:auto;"
+    />
+  </div>
+</div>
 
 - 🎂 1992
 - 🏠 Tokyo, Japan
