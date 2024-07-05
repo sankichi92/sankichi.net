@@ -2,6 +2,9 @@
   "name": "sankichi.net",
   "type": "module",
   "private": true,
+  "volta": {
+    "node": "22.4.0"
+  },
   "packageManager": "pnpm@8.15.4",
   "scripts": {
     "dev": "astro dev",
