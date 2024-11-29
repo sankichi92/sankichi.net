@@ -21,8 +21,8 @@ importers:
         specifier: ^4.16.16
         version: 4.16.16(rollup@4.27.4)(typescript@5.6.3)
       github-markdown-css:
-        specifier: ^5.8.0
-        version: 5.8.0
+        specifier: ^5.8.1
+        version: 5.8.1
       sharp:
         specifier: ^0.33.5
         version: 0.33.5
@@ -1015,8 +1015,8 @@ packages:
     resolution: {integrity: sha512-vpeMIQKxczTD/0s2CdEWHcb0eeJe6TFjxb+J5xgX7hScxqrGuyjmv4c1D4A/gelKfyox0gJJwIHF+fLjeaM8kQ==}
     engines: {node: '>=18'}
 
-  github-markdown-css@5.8.0:
-    resolution: {integrity: sha512-dSyhHzwQw4+5z+JveMY66o4PdbRP7ORjCiR5f1DjIDM5sSSE9rrRG5jpXGgx0PUMJC7goIzLtEJyItT2tL8IsQ==}
+  github-markdown-css@5.8.1:
+    resolution: {integrity: sha512-8G+PFvqigBQSWLQjyzgpa2ThD9bo7+kDsriUIidGcRhXgmcaAWUIpCZf8DavJgc+xifjbCG+GvMyWr0XMXmc7g==}
     engines: {node: '>=10'}
 
   github-slugger@2.0.0:
@@ -3175,7 +3175,7 @@ snapshots:
 
   get-east-asian-width@1.3.0: {}
 
-  github-markdown-css@5.8.0: {}
+  github-markdown-css@5.8.1: {}
 
   github-slugger@2.0.0: {}
 

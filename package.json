@@ -19,7 +19,7 @@
     "@astrojs/mdx": "^3.1.9",
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^4.16.16",
-    "github-markdown-css": "^5.8.0",
+    "github-markdown-css": "^5.8.1",
     "sharp": "^0.33.5",
     "typescript": "^5.6.3"
   },
