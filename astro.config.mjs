@@ -6,4 +6,7 @@ import { defineConfig } from "astro/config";
 export default defineConfig({
   site: "https://sankichi.net",
   integrations: [mdx(), sitemap()],
+  legacy: {
+    collections: true,
+  },
 });
