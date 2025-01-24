@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/mdx": "^4.0.6",
+    "@astrojs/mdx": "^4.0.7",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.1.7",
+    "astro": "^5.1.9",
     "github-markdown-css": "^5.8.1",
     "sharp": "^0.33.5",
     "typescript": "^5.7.3"
