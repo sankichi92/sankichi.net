@@ -18,7 +18,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.2.6",
     "@astrojs/sitemap": "^3.4.1",
-    "astro": "^5.10.0",
+    "astro": "^5.10.1",
     "github-markdown-css": "^5.8.1",
     "sharp": "^0.34.2",
     "typescript": "^5.8.3"
