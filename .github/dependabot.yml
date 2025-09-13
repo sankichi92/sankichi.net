@@ -8,6 +8,8 @@ updates:
       day: friday
       time: "20:00"
       timezone: Asia/Tokyo
+    cooldown:
+      default-days: 3
     groups:
       development-dependencies:
         dependency-type: development
@@ -15,6 +17,7 @@ updates:
         patterns:
           - "astro"
           - "@astrojs/*"
+
   - package-ecosystem: github-actions
     directory: /
     schedule:
@@ -22,3 +25,5 @@ updates:
       day: friday
       time: "20:00"
       timezone: Asia/Tokyo
+    cooldown:
+      default-days: 3
