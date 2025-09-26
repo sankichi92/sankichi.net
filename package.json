@@ -20,7 +20,7 @@
     "@astrojs/sitemap": "^3.5.1",
     "astro": "^5.13.7",
     "github-markdown-css": "^5.8.1",
-    "sharp": "^0.34.3",
+    "sharp": "^0.34.4",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
