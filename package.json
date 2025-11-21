@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",
-    "@astrojs/mdx": "^4.3.10",
+    "@astrojs/mdx": "^4.3.11",
     "@astrojs/sitemap": "^3.6.0",
     "astro": "^5.15.9",
     "github-markdown-css": "^5.8.1",
