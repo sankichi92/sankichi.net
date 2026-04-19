@@ -6,7 +6,11 @@ const title = "Sci-Fi";
 const description = "Takahiro Miyoshi's sci-fi books";
 
 const sciFiBooks = await getEntry("books", "sci-fi");
-const sciFiBokksByYear = Map.groupBy(sciFiBooks.data, ({ date }) =>
+if (!sciFiBooks) {
+  throw new Error('Missing "sci-fi" books content entry.');
+}
+
+const sciFiBooksByYear = Map.groupBy(sciFiBooks.data, ({ date }) =>
   date.getFullYear(),
 );
 ---
@@ -14,7 +18,7 @@ const sciFiBokksByYear = Map.groupBy(sciFiBooks.data, ({ date }) =>
 <Layout title={title} description={description}>
   <h1>Sci-Fi</h1>
   {
-    [...sciFiBokksByYear.entries()].map(([year, books]) => (
+    [...sciFiBooksByYear.entries()].map(([year, books]) => (
       <section>
         <h2>{year}</h2>
         <ul>
