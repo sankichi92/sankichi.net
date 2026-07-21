@@ -28,7 +28,7 @@
     "astro": "^6.4.7",
     "github-markdown-css": "^5.9.0",
     "sharp": "^0.35.3",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "devDependencies": {
     "prettier": "^3.9.5",
