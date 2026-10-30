@@ -22,10 +22,10 @@
     "fmt": "prettier --write . --plugin=prettier-plugin-astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.11",
-    "@astrojs/mdx": "^8.1.0",
+    "@astrojs/check": "^0.9.12",
+    "@astrojs/mdx": "^8.1.1",
     "@astrojs/sitemap": "^3.7.4",
-    "astro": "^7.4.1",
+    "astro": "^7.4.2",
     "github-markdown-css": "^5.9.0",
     "sharp": "^0.35.5",
     "typescript": "^6.0.3"
